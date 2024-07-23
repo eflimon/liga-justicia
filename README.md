@@ -1,11 +1,11 @@
-# Objetivos de la repositorio
+# Respository objective
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
-
-
-## Notas
-Pueden hacer lo que quieran...
+This respository was created to practice and improve my git/gitHub skills
 
 
-### Actualizado desde github
-Este es un mensaje agreggado desde github
+## Notes
+You can do whatever you want...
+
+
+### Updated from github
+This message was added from github
